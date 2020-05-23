@@ -9,4 +9,8 @@ public class Main {
         System.out.println("myName is Suraj Gurung");
     }
 
+    public void displayLastName(){
+        System.out.println("I love you Laxmi very much.");
+    }
+
 }
