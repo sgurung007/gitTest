@@ -23,12 +23,18 @@ public class Main {
     }
 
     public void bimalaDisplay(){
+<<<<<<< HEAD
         System.out.println("print from bimala");
     }
 
     public void manLalBahadur(){
         System.out.println("print from man lal");
     }
+=======
+        System.out.println("printing from bimala");
+    }
+
+>>>>>>> rearDoor
 
 
 }
