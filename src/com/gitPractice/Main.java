@@ -16,5 +16,9 @@ public class Main {
     public  void displayPitamBahadurGurung(){
         System.out.println("Pitam Bahadur Gurung");
     }
+    
+    public void displaySukMayaGurung(){
+     System.out.println("SukMaya Gurung is here");   
+    }
 
 }
