@@ -33,6 +33,13 @@ public class Main {
         System.out.println("print from the Rear Truck");
     }
 
+    public void displayRearSeat(){
+        System.out.println("println from displayRearSeat");
+    }
+
+
+
+
 
 
 
