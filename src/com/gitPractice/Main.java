@@ -13,4 +13,8 @@ public class Main {
         System.out.println("I love you Laxmi very much.");
     }
 
+    public  void displayPitamBahadurGurung(){
+        System.out.println("Pitam Bahadur Gurung");
+    }
+
 }
