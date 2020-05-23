@@ -17,4 +17,10 @@ public class Main {
         System.out.println("Pitam Bahadur Gurung");
     }
 
+
+    public void rearFender(){
+        System.out.println("printing from the rear fender");
+    }
+
+
 }
