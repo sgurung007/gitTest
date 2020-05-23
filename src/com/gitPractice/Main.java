@@ -22,5 +22,13 @@ public class Main {
         System.out.println("printing from the rear fender");
     }
 
+    public void bimalaDisplay(){
+        System.out.println("print from bimala");
+    }
+
+    public void manLalBahadur(){
+        System.out.println("print from man lal");
+    }
+
 
 }
