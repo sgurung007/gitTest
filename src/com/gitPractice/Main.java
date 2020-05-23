@@ -30,6 +30,13 @@ public class Main {
         System.out.println("print from man lal");
     }
 
+    public void displayRearSeat(){
+        System.out.println("println from displayRearSeat");
+    }
+
+
+
+
 
 
 
