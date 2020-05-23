@@ -29,6 +29,9 @@ public class Main {
     public void manLalBahadur(){
         System.out.println("print from man lal");
     }
+    public void displayRearTruck(){
+        System.out.println("print from the Rear Truck");
+    }
 
 
 
