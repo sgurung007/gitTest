@@ -21,4 +21,8 @@ public class Main {
      System.out.println("SukMaya Gurung is here");   
     }
 
+    public void sgurung007patch(){
+        System.out.println("hello from the sgurung007patch");
+    }
+
 }
